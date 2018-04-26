@@ -11,7 +11,7 @@ const btnAllLot = document.getElementById('btnAllLot');
 
 const aerial = document.querySelectorAll('.aerial');
 const lot = document.querySelectorAll('.lot');
-const view = document.querySelectorAll('.view');
+const view = document.querySelectorAll('.views');
 const subdivision = document.querySelectorAll('.subdivision');
 const area = document.querySelectorAll('.area');
 
